@@ -1,8 +1,10 @@
 # Data-Visualization-ML
 
+https://www.youtube.com/watch?v=7fIqp39XljU&list=PLGjf1T0akmhMDDJJ0-t_dUnH929YyfClM&index=4
+
 https://github.com/SKawsar/Data_Visualization_with_Python_s2
 
-01: Pie Chart, Barplot
+***01: Pie Chart, Barplot***
 
 Familiarity with matplotlib and seaborn
 
@@ -24,7 +26,7 @@ How to change the range of x and y axis?
 
 How to rotate the x and y tick labels?
 
-02:
+***02: ***
 
 How to create a new DataFrame?
 
@@ -46,7 +48,7 @@ How to modify the legend of a figure?
 
 How to create subplots?
 
-03:
+***03:  ***
 
 Scatter plot
 
@@ -54,7 +56,7 @@ Regression line
 
 Pair plot
 
-04:
+***04: ***
 
 Histogram
 
@@ -62,13 +64,13 @@ Distribution
 
 ecdf (empirical cumulative distribution function)
 
-05:
+***05: ***
 
 Boxplot
 
 Violinplot
 
-06:
+***06:  ***
 
 Heatmap
 
