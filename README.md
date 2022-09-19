@@ -64,7 +64,7 @@ Distribution
 
 ecdf (empirical cumulative distribution function)
 
-***05: ***
+***05: Data Visualization: Boxplot, Violinplot***
 
 Boxplot
 
